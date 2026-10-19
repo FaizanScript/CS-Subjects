@@ -211,3 +211,63 @@ Limitations:
 The coverage categories are approximate. There is no universal distance threshold that perfectly separates every LAN, CAN and MAN.
 
 
+## 2.8 Intranet vs Extranet vs Internet
+
+These terms classify networks by their access and purpose rather than geographical coverage. A company's intranet, for example, can span multiple cities.
+
+## Intranet
+
+**Definition**: A private network or set of services intended for an organisation's authorised members.
+
+**Example**: An employee portal containing internal documents, policies and company tools.
+
+**Access**: Restricted to authorised users.
+
+
+## Extranet
+
+**Definition**: A controlled extension of an organisation's private network or services that grants selected external parties access to specific resources.
+
+**Example**: A supplier portal through which approved vendors can view orders.
+
+**Access**: Limited access for selected external users, such as suppliers or business partners.
+
+
+## Internet
+
+**Definition**: The global system of interconnected networks that communicate using the Internet Protocol suite.
+
+**Example**: Accessing public websites, online services and email systems.
+
+**Access**: Publicly reachable services and private services can both use Internet infrastructure; access still depends on permissions and security controls.
+
+
+### Comparison
+
+|Feature|Intranet|Extranet|Internet|
+|---|---|---|---|
+|Primary purpose|Internal organisational communication|Controlled collaboration with external parties|Global connectivity and services|
+|Typical users|Employees or members|Authorised internal and external users|Internet users, subject to service permissions|
+|Access|Restricted|Restricted and selectively shared|Global infrastructure; individual services may be restricted|
+|Example|Internal employee portal|Supplier portal|Public website|
+
+**Remember**: An intranet is not necessarily physically separate from the Internet. It can use Internet technologies while restricting access through authentication, permissions and network security.
+
+
+## 2.9 Interview questions
+
+Try to answer these without looking at your notes.
+
+1. What is the difference between LAN and WAN?
+    
+2. Is Wi-Fi the same as the Internet? Explain.
+    
+3. What is the difference between a CAN and a MAN?
+    
+4. Can a company have a LAN in one city and another LAN in a different city? How could they be connected?
+    
+5. What is the difference between an intranet and an extranet?
+    
+6. Why is the Internet called a network of networks?
+    
+7. Which network type would be appropriate for connecting Bluetooth earbuds to a smartphone, and why?
