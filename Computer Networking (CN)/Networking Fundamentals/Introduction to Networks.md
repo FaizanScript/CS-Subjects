@@ -164,3 +164,49 @@ These are two common ways of organizing communication between devices.
 **Advantages**: Resources can be distributed among peers, potentially reducing dependence on a central server.
 
 **Disadvantages**: Management, availability, security and coordination can be more difficult.
+
+Modern applications can combine both approaches. For example, a P2P application may use central servers for authentication or peer discovery while transferring data directly between peers.
+
+
+## 1.7 What is data transmission?
+
+Definition: Data transmission is the process of transferring information from one device to another through a communication medium.
+
+Data can be transmitted using electrical signals, light signals or electromagnetic radio waves.
+
+Two basic transmission modes are:
+
+- Simplex: Communication takes place in one direction only. Example: a traditional broadcast transmission.
+    
+- Half-duplex: Both devices can transmit, but not simultaneously. Example: a walkie-talkie.
+    
+- Full-duplex: Both devices can transmit simultaneously. Example: a telephone conversation.
+    
+
+Note that these are communication modes, not network types. They describe how information flows between communicating endpoints.
+
+
+## 1.8 What is a packet?
+
+Definition: A packet is a formatted unit of data carried by a network-layer protocol, such as IP, across a network.
+
+When you send a large amount of information over a network, it may be divided into smaller units for transmission. At the network layer, those units are called packets.
+
+A simplified packet contains:
+
+	header                         payload
+
+addressing and                                 Data being carried 
+control information
+
+Simplified illustration. Actual packet fields and payload contents depend on the protocol.
+
+Why packets matter:
+
+- Networks can share communication links among many users.
+    
+- Data can be transmitted in manageable units.
+    
+- Routers can forward packets toward their destinations.
+    
+- Lost or delayed packets can be handled according to the protocols and applications involved.
