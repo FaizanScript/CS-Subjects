@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking (CN)/Networking Fundamentals/Types of Computer Networks.md",
+                "file": "Computer Networking (CN)/Networking Fundamentals/03-Network Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Computer Networks"
+              "title": "03-Network Topologies"
             }
           }
         ]
@@ -201,8 +201,10 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Computer Networking (CN)/Networking Fundamentals/Introduction to Networks.md",
-    "Computer Networking (CN)/Networking Fundamentals/Types of Computer Networks.md",
+    "Computer Networking (CN)/Networking Fundamentals/02-Types of Computer Networks.md",
+    "Computer Networking (CN)/Networking Fundamentals/03-Network Topologies.md",
+    "Computer Networking (CN)/Networking Fundamentals/01-Introduction to Networks.md",
+    "Computer Networking (CN)/Untitled.md",
     "Pasted image 20261015021300.png",
     "().md",
     "Computer Networking (CN)/Networking Fundamentals",
