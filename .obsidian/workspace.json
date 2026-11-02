@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking (CN)/Networking Fundamentals/04-Network Devices.md",
+                "file": "Computer Networking (CN)/Networking Fundamentals/05-Network Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Network Devices"
+              "title": "05-Network Protocols"
             }
           }
         ]
@@ -199,12 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab3f6c2e221c0070",
+  "active": "fd2c184d02561684",
   "lastOpenFiles": [
-    "Computer Networking (CN)/Networking Fundamentals/03-Network Topologies.md",
-    "Computer Networking (CN)/Networking Fundamentals/04-Network Devices.md",
     "Computer Networking (CN)/Networking Fundamentals/02-Types of Computer Networks.md",
     "Computer Networking (CN)/Networking Fundamentals/01-Introduction to Networks.md",
+    "Computer Networking (CN)/Networking Fundamentals/04-Network Devices.md",
+    "Computer Networking (CN)/Networking Fundamentals/05-Network Protocols.md",
+    "Computer Networking (CN)/Networking Fundamentals/03-Network Topologies.md",
     "Computer Networking (CN)/Untitled.md",
     "Pasted image 20261015021300.png",
     "().md",
