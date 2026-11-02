@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking (CN)/Networking Fundamentals/05-Network Protocols.md",
+                "file": "Database Management System (DBMS)/Introduction to DBMS/01-Introduction to Data and Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-Network Protocols"
+              "title": "01-Introduction to Data and Databases"
             }
           }
         ]
@@ -201,8 +201,11 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Pasted image 20261015021300.png",
     "Computer Networking (CN)/Networking Fundamentals/05-Network Protocols.md",
+    "Database Management System (DBMS)/Introduction to DBMS/01-Introduction to Data and Databases.md",
+    "Database Management System (DBMS)/Introduction to DBMS",
+    "Database Management System (DBMS)",
+    "Pasted image 20261015021300.png",
     "Computer Networking (CN)/Networking Fundamentals/02-Types of Computer Networks.md",
     "Computer Networking (CN)/Networking Fundamentals/01-Introduction to Networks.md",
     "Computer Networking (CN)/Networking Fundamentals/04-Network Devices.md",
