@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking (CN)/02-Network Models and Architecture/02-OSI Model (Open Systems Interconnection Model).md",
+                "file": "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-OSI Model (Open Systems Interconnection Model)"
+              "title": "01-Three Schema Architecture"
             }
           }
         ]
@@ -199,11 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2c184d02561684",
+  "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
+    "Computer Networking (CN)/02-Network Models and Architecture/02-OSI Model (Open Systems Interconnection Model).md",
+    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence",
     "Computer Networking (CN)/01-Networking Fundamentals/05-Network Protocols.md",
-    "Computer Networking (CN)/02-Network Models and Architecture/02-OSI Model (Open Systems Interconnection Model).md",
     "Computer Networking (CN)/01-Networking Fundamentals/06-Packet Switching and Circuit Switching.md",
     "Computer Networking (CN)/01-Networking Fundamentals/07-Network Performance Metrics.md",
     "Computer Networking (CN)/02-Network Models and Architecture/01-Why Do We Need Network Models and Layered Architecture.md",
