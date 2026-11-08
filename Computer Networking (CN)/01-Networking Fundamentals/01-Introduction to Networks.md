@@ -23,8 +23,6 @@ In simple words, a computer network allows devices to communicate with each othe
 
 - **Network Devices:** Hardware like **switches** (which manage internal traffic within a local network) and **routers** (which direct data between different networks like the internet).
 
-![[Pasted image 20261015021300.png]]
-
 ### Why do we need computer networks?
 
 **The main purposes are:**

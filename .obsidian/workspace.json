@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/Introduction to DBMS/09-Database Administrator (DBA).md",
+                "file": "Computer Networking (CN)/02-Network Models and Architecture/01-Why Do We Need Network Models and Layered Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-Database Administrator (DBA)"
+              "title": "01-Why Do We Need Network Models and Layered Architecture"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/Introduction to DBMS/08-Types of Database Users.md",
+    "Computer Networking (CN)/01-Networking Fundamentals/01-Introduction to Networks.md",
     "Database Management System (DBMS)/Introduction to DBMS/09-Database Administrator (DBA).md",
+    "Database Management System (DBMS)/Introduction to DBMS/08-Types of Database Users.md",
     "Database Management System (DBMS)/Introduction to DBMS/07-DBMS Vs RDBMS.md",
     "Computer Networking (CN)/02-Network Models and Architecture/01-Why Do We Need Network Models and Layered Architecture.md",
     "Database Management System (DBMS)/Introduction to DBMS/06-DBMS vs Traditional File System.md",
@@ -219,7 +220,6 @@
     "Database Management System (DBMS)",
     "Pasted image 20261015021300.png",
     "Computer Networking (CN)/01-Networking Fundamentals/02-Types of Computer Networks.md",
-    "Computer Networking (CN)/01-Networking Fundamentals/01-Introduction to Networks.md",
     "Computer Networking (CN)/01-Networking Fundamentals/04-Network Devices.md",
     "Computer Networking (CN)/01-Networking Fundamentals/03-Network Topologies.md",
     "Computer Networking (CN)/Untitled.md",
