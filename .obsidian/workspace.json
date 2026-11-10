@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/03-Data Independence.md",
+                "file": "Computer Networking (CN)/02-Network Models and Architecture/05-Encapsulation and Decapsulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Data Independence"
+              "title": "05-Encapsulation and Decapsulation"
             }
           }
         ]
@@ -201,8 +201,10 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
+    "Computer Networking (CN)/02-Network Models and Architecture/04-TCP IP Model.md",
+    "Computer Networking (CN)/02-Network Models and Architecture/05-Encapsulation and Decapsulation.md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/03-Data Independence.md",
+    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/02-Data Abstraction.md",
     "Computer Networking (CN)/02-Network Models and Architecture/03-7 Layers of OSI Model.md",
     "Computer Networking (CN)/02-Network Models and Architecture/04-Data Abstraction.md",
@@ -230,7 +232,6 @@
     "Computer Networking (CN)/01-Networking Fundamentals/04-Network Devices.md",
     "Computer Networking (CN)/01-Networking Fundamentals/03-Network Topologies.md",
     "Computer Networking (CN)/Untitled.md",
-    "().md",
     "Computer Networking (CN)/01-Networking Fundamentals",
     "Computer Networking (CN)"
   ]
