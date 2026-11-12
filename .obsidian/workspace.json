@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/03-Data Models and ER Models/01-Introduction to Data Models.md",
+                "file": "Database Management System (DBMS)/03-Data Models and ER Models/02-Hierarchical Data Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Introduction to Data Models"
+              "title": "02-Hierarchical Data Model"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
     "Database Management System (DBMS)/03-Data Models and ER Models/01-Introduction to Data Models.md",
+    "Database Management System (DBMS)/03-Data Models and ER Models/02-Hierarchical Data Model.md",
+    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
     "Database Management System (DBMS)/03-Data Models and ER Models",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/06-Database System Components.md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/05-Database Languages (DDL, DML, DQL, DCL and TCL).md",
@@ -229,7 +230,6 @@
     "Database Management System (DBMS)/01-Introduction to DBMS/05-Disadvantages of DBMS.md",
     "Database Management System (DBMS)/01-Introduction to DBMS/03-Need for DBMS.md",
     "Database Management System (DBMS)/01-Introduction to DBMS/02-Traditional File System.md",
-    "Database Management System (DBMS)/01-Introduction to DBMS/04-Advantages of DBMS.md",
     "Database Management System (DBMS)/01-Introduction to DBMS",
     "Database Management System (DBMS)",
     "Pasted image 20261015021300.png",
