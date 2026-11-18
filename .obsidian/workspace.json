@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/03-Data Models and ER Models/05-Introduction to the Entity-Relationship (ER) Model.md",
+                "file": "Database Management System (DBMS)/03-Data Models and ER Models/06-Types of Attributes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-Introduction to the Entity-Relationship (ER) Model"
+              "title": "06-Types of Attributes"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/06-Database System Components.md",
     "Database Management System (DBMS)/03-Data Models and ER Models/05-Introduction to the Entity-Relationship (ER) Model.md",
+    "Database Management System (DBMS)/03-Data Models and ER Models/06-Types of Attributes.md",
+    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/06-Database System Components.md",
     "Database Management System (DBMS)/01-Introduction to DBMS/09-Database Administrator (DBA).md",
     "Database Management System (DBMS)/03-Data Models and ER Models/04-Relational Data Model.md",
     "Database Management System (DBMS)/03-Data Models and ER Models/03-Network Data Model.md",
@@ -228,7 +229,6 @@
     "Computer Networking (CN)/01-Networking Fundamentals/01-Introduction to Networks.md",
     "Database Management System (DBMS)/01-Introduction to DBMS/08-Types of Database Users.md",
     "Database Management System (DBMS)/01-Introduction to DBMS/07-DBMS Vs RDBMS.md",
-    "Database Management System (DBMS)/01-Introduction to DBMS/06-DBMS vs Traditional File System.md",
     "Computer Networking (CN)/02-Network Models and Architecture",
     "Database Management System (DBMS)/01-Introduction to DBMS",
     "Database Management System (DBMS)",
