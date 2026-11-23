@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/04-Relational Database Model and Keys/04-Domain Constraints and CHECK Constraints.md",
+                "file": "Database Management System (DBMS)/04-Relational Database Model and Keys/05-Key Constraints and Types of Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Domain Constraints and CHECK Constraints"
+              "title": "05-Key Constraints and Types of Keys"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/04-Relational Database Model and Keys/03-Referential Integrity Constraint and Foreign Key Rules.md",
     "Database Management System (DBMS)/04-Relational Database Model and Keys/04-Domain Constraints and CHECK Constraints.md",
+    "Database Management System (DBMS)/04-Relational Database Model and Keys/05-Key Constraints and Types of Keys.md",
+    "Database Management System (DBMS)/04-Relational Database Model and Keys/03-Referential Integrity Constraint and Foreign Key Rules.md",
     "Database Management System (DBMS)/04-Relational Database Model and Keys/02-Entity Integrity Constraint and Primary Key Rules.md",
     "Database Management System (DBMS)/04-Relational Database Model and Keys/01-Integrity Constraints.md",
     "Computer Networking (CN)/03-Physical and Data Link Layer/03-Bandwidth, Bit Rate, and Transmission Speed.md",
@@ -229,7 +230,6 @@
     "Computer Networking (CN)/02-Network Models and Architecture/06-Protocol Data Units (PDUs).md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/03-Data Independence.md",
     "Computer Networking (CN)/02-Network Models and Architecture/05-Encapsulation and Decapsulation.md",
-    "Computer Networking (CN)/02-Network Models and Architecture/04-TCP IP Model.md",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence",
     "Computer Networking (CN)/02-Network Models and Architecture",
     "Database Management System (DBMS)/01-Introduction to DBMS",
