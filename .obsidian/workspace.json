@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management System (DBMS)/05-SQL (Structured Query Language)/03-Data Manipulation Language (DML).md",
+                "file": "Database Management System (DBMS)/05-SQL (Structured Query Language)/04-Data Retrieval (DQL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Data Manipulation Language (DML)"
+              "title": "04-Data Retrieval (DQL)"
             }
           }
         ]
@@ -201,9 +201,10 @@
   },
   "active": "ab3f6c2e221c0070",
   "lastOpenFiles": [
-    "Database Management System (DBMS)/05-SQL (Structured Query Language)/02-Database and Table Creation (DDL).md",
-    "Database Management System (DBMS)/05-SQL (Structured Query Language)/03-Data Manipulation Language (DML).md",
     "Database Management System (DBMS)/05-SQL (Structured Query Language)/01-Introduction to SQL.md",
+    "Database Management System (DBMS)/05-SQL (Structured Query Language)/04-Data Retrieval (DQL).md",
+    "Database Management System (DBMS)/05-SQL (Structured Query Language)/03-Data Manipulation Language (DML).md",
+    "Database Management System (DBMS)/05-SQL (Structured Query Language)/02-Database and Table Creation (DDL).md",
     "Database Management System (DBMS)/04-Relational Database Model and Keys/08-Relational Model - Complete Revision.md",
     "Database Management System (DBMS)/05-SQL (Structured Query Language)",
     "Database Management System (DBMS)/05-SQL (Structured Query Language).md",
@@ -229,7 +230,6 @@
     "Database Management System (DBMS)/01-Introduction to DBMS/09-Database Administrator (DBA).md",
     "Database Management System (DBMS)/03-Data Models and ER Models/04-Relational Data Model.md",
     "Database Management System (DBMS)/03-Data Models and ER Models/03-Network Data Model.md",
-    "Database Management System (DBMS)/02-DBMS Architecture and Data Independence/01-Three Schema Architecture.md",
     "Database Management System (DBMS)/03-Data Models and ER Models",
     "Database Management System (DBMS)/02-DBMS Architecture and Data Independence",
     "Computer Networking (CN)/02-Network Models and Architecture",
