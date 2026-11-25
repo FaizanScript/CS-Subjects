@@ -694,19 +694,19 @@ Because SQL is declarative. You describe the result you want, and the database d
 
 ### **13. Quick Revision**
 
-|Concept|What it does|
-|---|---|
-|`WHERE`|Filters records|
-|`AND`|Both conditions must be true|
-|`OR`|At least one condition must be true|
-|`NOT`|Reverses a condition|
-|`BETWEEN`|Checks an inclusive range|
-|`IN`|Matches values from a list|
-|`LIKE`|Pattern matching|
-|`ILIKE`|Case-insensitive matching in PostgreSQL|
-|`IS NULL`|Checks NULL values|
-|`ORDER BY`|Sorts records|
-|`ASC`|Ascending order|
-|`DESC`|Descending order|
-|`LIMIT`|Restricts returned rows|
-|`OFFSET`|Skips rows|
+| Concept    | What it does                            |
+| ---------- | --------------------------------------- |
+| `WHERE`    | Filters records                         |
+| `AND`      | Both conditions must be true            |
+| `OR`       | At least one condition must be true     |
+| `NOT`      | Reverses a condition                    |
+| `BETWEEN`  | Checks an inclusive range               |
+| `IN`       | Matches values from a list              |
+| `LIKE`     | Pattern matching                        |
+| `ILIKE`    | Case-insensitive matching in PostgreSQL |
+| `IS NULL`  | Checks NULL values                      |
+| `ORDER BY` | Sorts records                           |
+| `ASC`      | Ascending order                         |
+| `DESC`     | Descending order                        |
+| `LIMIT`    | Restricts returned rows                 |
+| `OFFSET`   | Skips rows                              |
