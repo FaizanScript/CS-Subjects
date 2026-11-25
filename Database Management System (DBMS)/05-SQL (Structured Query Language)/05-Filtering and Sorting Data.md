@@ -692,6 +692,7 @@ This is a simplified logical model, not a description of the database's physical
 
 Because SQL is declarative. You describe the result you want, and the database determines how to retrieve it.
 
+
 ### **13. Quick Revision**
 
 | Concept    | What it does                            |
